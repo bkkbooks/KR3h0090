@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 1, filename: KR3h0090_001-tls.yaml, hash: 'sha256:1ed48874ffaeb2a0937ccb6d7881b1394e0af00f3737ce70b2476b5b3e9695bb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0090_001-tls.markers.yaml, hash: 'sha256:4bece2bad77a82bd7e9fa7531b830e4f154bd9b05a93f4c1444cfb36e10bcb95'}
+  - {seq: 1, role: markers, filename: assets/KR3h0090_001-tls.markers.yaml, hash: 'sha256:addb470f76430ac040df6dec27615918f02822af0d3102a689a5dfba018cc8ca'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,4 @@ table_of_contents:
   label: 園冶
   type: section
   level: 1
-hash: sha256:d3d27ad407f4a182b505fa2a2b95e2c92be0ebbace1eb481f0b70ce94484f280
+hash: sha256:e34065103baf0054b8ba0065f60cb9bf89928ccd3da1fb184467f90825759e55
